@@ -2,7 +2,7 @@ package numbers;
 
 import java.util.*;
 
-public class AmazingNumbers {
+class AmazingNumbers {
 
     static final Scanner sc = new Scanner(System.in);
     static ArrayList<Boolean> properties = new ArrayList<>();
